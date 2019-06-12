@@ -1,4 +1,4 @@
-# import xml.dom.minidom as xmldom test testmac
+# import xml.dom.minidom as xmldom test testmac testwin
 import os
 from bs4 import BeautifulSoup
 # from xml.etree import ElementTree
